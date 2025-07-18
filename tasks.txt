@@ -1,0 +1,3 @@
+{'name': 'read a book', 'priority': 'High', 'done': True}
+{'name': 'write a book', 'priority': 'Low', 'done': False}
+{'name': 'go for a walk', 'priority': 'Medium', 'done': False}
